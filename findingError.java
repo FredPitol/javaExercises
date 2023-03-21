@@ -1,12 +1,12 @@
 public class findingError {
-    
+    // Counting 1 to 10 
     public static void main(String[] args) {
 
-        while (contador <= 10) {
-            int contador = 1;            
-            System.out.println(contador);
+        int contador = 0;
+
+        while (contador < 10) {  
             contador++;
+            System.out.println(contador);
         }
     }
-
 }
