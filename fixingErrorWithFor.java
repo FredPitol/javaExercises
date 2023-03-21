@@ -2,11 +2,11 @@ public class fixingErrorWithFor {
     /*"Transform the following code, 
     which uses a while loop, into code that uses a for loop." */
     public static void main(String[] args) {
-        int contador = 0;
-        while(contador <= 10) {
-            System.out.println(contador);
-            contador++;
+
+       // Declare counter; conditional; iteration  
+       
+        for (int counter = 0; counter <= 10; counter++ ) {
+            System.out.println(counter);      
         }
     }
-    
 }
