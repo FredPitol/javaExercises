@@ -6,8 +6,7 @@ public class testingLoops {
                 System.out.print(multiplier * counter);
                 System.out.print(" ");
             }
-            System.out.println ();
-        }
-           
+        System.out.println ();
+        }  
     }
 }
