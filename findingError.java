@@ -10,3 +10,6 @@ public class findingError {
         }
     }
 }
+/*variable was not properly declared in the correct scope, 
+and that the logic used in a conditional statement was not 
+correctly  */
