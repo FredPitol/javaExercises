@@ -1,4 +1,4 @@
-public class testWhile{
+ public class testWhile{
 
     public static void main(String[] args) {
         
